@@ -94,7 +94,7 @@ enterprise-doc-qa/
 ├── .env                       # Environment variables (API keys - DO NOT push to GitHub)
 ├── .gitignore                 # Excludes faiss_index/ and .env
 │
-├── ABC_Company_Knowledge.pdf    # 📄 Your source data file (PDF)
+├── ABC_Company_Profile.pdf    # 📄 Your source data file (PDF)
 │
 └── faiss_index/               # 🗄️ Automatically generated vector database folder
     ├── index.faiss
